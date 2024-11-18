@@ -1,4 +1,8 @@
-# react-leaflet-cluster [![npm version](https://img.shields.io/npm/v/react-leaflet-cluster.svg)](https://www.npmjs.com/package/react-leaflet-cluster)
+# react-leaflet-realtime-cluster [![npm version](https://img.shields.io/npm/v/react-leaflet-cluster.svg)](https://www.npmjs.com/package/react-leaflet-realtime-cluster)
+
+This fork supports real-time operations using leaflet clusters, such as exposing events from internal clustering operations.
+
+### From the original repository:
 
 - [x] React-leaflet v4 support
 - [x] Typescript support
